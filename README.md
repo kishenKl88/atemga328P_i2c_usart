@@ -1,1 +1,1 @@
-# atemga32_i2c_usart
+# atemga328_i2c_usart

@@ -1,1 +1,1 @@
-# atmga328P_i2c_usart
+# atmega328P_i2c_usart
